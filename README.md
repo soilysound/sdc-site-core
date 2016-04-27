@@ -27,34 +27,33 @@ or:
 Browsers that do not pass the above test will not recieve site javascript and may thus lack some functionailty. However, the main text of each page should still be readable and there should be a basic, useable navigation.
 
 #### Modern browser
-Browsers and devices listed here should enjoy full site functionality, javascript support and rich design.
+Browsers and devices listed here should enjoy full site functionality, javascript support and rich design. 
 
 | Yes          | Support % |
 | :----------  | :------   |
 | IE10         | 0.5       |
-| IE11         | 5.6       | 
-| Edge         | 0.9       |
-| IE Mob 10+   | 2.6       |
-| IOS 7+       | 30.2      |
-| Android 4.4  | 2.4       |
-| Firefox*     | 4.2       |
-| Chrome*      | 33.6      |
-| Saf 7+       | 2.6       |
-| Opera(blink) | 1.6       |
-| other        | 2.18      |
-| ***total***  | 82.18     |
-*includes Android
+| IE11         | 7.9       | 
+| Edge         | 2.7       |
+| IE Mob 10+   | 1.0       |
+| IOS 7+       | 22.8      |
+| Android 4.4  | 2.2       |
+| Firefox      | 7.2       |
+| Chrome       | 27.8      |
+| Chrome And   | 12.1      |
+| Saf 7+       | 4.3       |
+| Opera        | 0.6       |
+| Other        | 2.1       |
+| ***total***  | 91.1      |
 
 #### Legacy browser
 Browsers and devices listed here will not recieve site javascript and will be missing some functionailty. All text should be viewable and basic navigation functional, but design and appearence may be basic and stripped back.
 
 | No           | Support % |
 | :----------  | :----     |
-| IE8          | 0.4       |
+| IE8          | 0.5       |
 | IE9          | 0.6       |
-| And 4.3<     | 1.9       |
-| IOS 6<       | 0.23      |
-| Saf 6<       | 0.35      |
-| Opera Mini   | 8.2       |
-| ***total***  | 11.7      |
-*Stats based on caniuse.com UK values
+| And 4.3<     | 1.1       |
+| Opera Mini   | 0.9       |
+| IOS <7       | 0.1       |
+| Saf <7       | 0.6       |
+| ***total***  | 3.8       |
