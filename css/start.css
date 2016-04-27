@@ -1,0 +1,52 @@
+/*RESET*/
+/*================*/
+
+@-ms-viewport {
+  width: auto
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  -webkit-touch-callout: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-touch-action: manipulation;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -webkit-text-size-adjust: none
+}
+
+img {
+  max-width: 100%;
+}
+
+textarea,
+select,
+input {
+  font: inherit;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  font-weight: 600;
+}
+
+a, 
+svg {
+  color: inherit;
+  fill: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
